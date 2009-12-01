@@ -1,1 +1,2 @@
-puts (rand(6) + 1)
+dice = (rand(6) + 1)
+puts "サイコロの目は#{dice}です"
