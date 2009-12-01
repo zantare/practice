@@ -1,4 +1,4 @@
-temperature = 20
+temperature = ARGV[0].to_i
 
 if temperature > 10
 	puts "今日は暖かいです"
